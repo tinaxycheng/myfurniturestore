@@ -1,0 +1,33 @@
+[
+	{
+
+	  "id": 1,
+	  "name": "Simple Stool",
+		"price": 20,
+		"details": "Simple stool. Good for sitting. Solid wood is a durable natural material.",
+		"product_img": "assets/images/stool.jpg"
+	},
+	{
+
+		"id": 1,
+	  "name": "Outdoor Kitchen",
+		"price": 20,
+		"details": "good for sitting",
+		"product_img": "assets/images/outdoor_kitchen.jpg"
+	},
+	{
+		"id": 3,
+		"name": "Wink chair",
+		"price": 50,
+		"details": "A versatile chaise longue, a cross between an ergonomic car seat adjustable with a knob and the playful silhouette of Mickey Mouse. Designed in 1980 by Kita, the internationally famous Japanese designer, Wink is a timeless model, a break away from the banal due to its transformability and range of interchangeable upholstery. As part of the C90 Mutazioni programme it comes with new details and upholstery in an updated range of fabrics and colours",
+		"product_img": "assets/images/winkchair.png"
+	},
+
+	{
+		"id": 4,
+		"name": "Wood Normal chair",
+		"price": 50,
+		"details": "Measurement, as the mathematical relation between power and size, is an essential part of knowing and discerning. Measurement, as the opposite of chaos, demands discipline, logic, and control. Yet measurement can also allow for a margin of error. Heel carries the trace of an accepted fracture, an interruption of the frame’s continuous line which the design is quick to swallow, to return to the accepted order of things.",
+		"product_img": "assets/images/woodchair.png"
+	}
+]

@@ -1,0 +1,13 @@
+
+        <div class="item_container" *ngFor="let product of products$ | async">
+          <div class="item"> 
+          <div class="item_image"><img src="{{product.product_img}}" style="height:250px;" /></div>
+           <div class="item_description">
+            <h2>{{product.name}}  </h2>
+            <p class="product_description">{{product.details}}<p>
+            <p> ${{product.price}}</p>
+            <span class="input-group-text"  (click)="addToCart(product)">Add to Cart</span>
+            </div>
+          </div>
+        </div>
+
